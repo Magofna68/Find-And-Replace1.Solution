@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ProjectName;
 
-namespace ProjectName.Tests //Change to match Title
+namespace FindAndReplaceSolution.Tests //Change to match Title
 {
   [TestClass]
-  public class ClassNameTests
+  public class FindAndReplaceTests
   {
     // // [TestMethod]
     // public void NameOfMethodWeAreTesting_DescriptionOfBehavior_ExpectedReturnValue()
