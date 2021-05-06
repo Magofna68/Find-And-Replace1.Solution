@@ -14,6 +14,7 @@ public class Program
     ForegroundColor = ConsoleColor.White;
     Write("!\n");
     BackgroundColor = ConsoleColor.Black;
+    Write("\n");
     WriteLine("We're gonna change some sentences!");
     Write("What sentence shall we use? : ");
     string sentence = ReadLine();
